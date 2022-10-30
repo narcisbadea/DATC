@@ -1,0 +1,12 @@
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\bin\Release\net6.0\DATC_tema.DAL.deps.json
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\bin\Release\net6.0\DATC_tema.DAL.dll
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\bin\Release\net6.0\DATC_tema.DAL.pdb
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\DATC_tema.DAL.csproj.AssemblyReference.cache
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\DATC_tema.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\DATC_tema.DAL.AssemblyInfoInputs.cache
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\DATC_tema.DAL.AssemblyInfo.cs
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\DATC_tema.DAL.csproj.CoreCompileInputs.cache
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\DATC_tema.DAL.dll
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\refint\DATC_tema.DAL.dll
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\DATC_tema.DAL.pdb
+C:\RepoFacultate\DATC_tema\DATC_tema.DAL\obj\Release\net6.0\ref\DATC_tema.DAL.dll

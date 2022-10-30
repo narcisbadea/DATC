@@ -1,0 +1,15 @@
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\bin\Debug\net6.0\DATC_tema.BLL.deps.json
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\bin\Debug\net6.0\DATC_tema.BLL.dll
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\bin\Debug\net6.0\DATC_tema.BLL.pdb
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\bin\Debug\net6.0\DATC_tema.DAL.dll
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\bin\Debug\net6.0\DATC_tema.DAL.pdb
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.csproj.AssemblyReference.cache
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.AssemblyInfoInputs.cache
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.AssemblyInfo.cs
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.csproj.CoreCompileInputs.cache
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.csproj.CopyComplete
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.dll
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\refint\DATC_tema.BLL.dll
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\DATC_tema.BLL.pdb
+C:\RepoFacultate\DATC_tema\DATC_tema.BLL\obj\Debug\net6.0\ref\DATC_tema.BLL.dll
