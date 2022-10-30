@@ -5411,11 +5411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RepoFacultate\\DATC_tema2\\DATC_tema2\\DATC_tema2.csproj",
+      "projectUniqueName": "C:\\RepoFacultate\\DATC_tema\\DATC_lab5\\DATC_tema2\\DATC_tema2.csproj",
       "projectName": "DATC_tema2",
-      "projectPath": "C:\\RepoFacultate\\DATC_tema2\\DATC_tema2\\DATC_tema2.csproj",
+      "projectPath": "C:\\RepoFacultate\\DATC_tema\\DATC_lab5\\DATC_tema2\\DATC_tema2.csproj",
       "packagesPath": "C:\\Users\\Narcis\\.nuget\\packages\\",
-      "outputPath": "C:\\RepoFacultate\\DATC_tema2\\DATC_tema2\\obj\\",
+      "outputPath": "C:\\RepoFacultate\\DATC_tema\\DATC_lab5\\DATC_tema2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Narcis\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xd0fkaVSTSCf/ChqBE08piKgXyYA18tOuPfBiY5HJPjJgwh985+iAoreCpMUZQi502NduqwVHYJYHWyoK381cw==",
+  "dgSpecHash": "CVkNnAZx2SsnToi4abuq3iLlwtkS5yCMRlPe8Xa4DTLwKcrxu+cX1mVkauSBVVyeFNhSOdazhAgpUrM4W6ZfBw==",
   "success": true,
-  "projectFilePath": "C:\\RepoFacultate\\DATC_tema2\\DATC_tema2\\DATC_tema2.csproj",
+  "projectFilePath": "C:\\RepoFacultate\\DATC_tema\\DATC_lab5\\DATC_tema2\\DATC_tema2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Narcis\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\Narcis\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
